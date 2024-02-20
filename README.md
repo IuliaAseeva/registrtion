@@ -1,4 +1,4 @@
-# MQ–2.2. Задача 3 — Попап регистрации
+# Pop-up форма регистрации
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Yulia-Aseeva/pen/OJdvNeP](https://codepen.io/Yulia-Aseeva/pen/OJdvNeP).
+Проект был создан в песочнице Codepen.io: [https://codepen.io/Yulia-Aseeva/pen/OJdvNeP](https://codepen.io/Yulia-Aseeva/pen/OJdvNeP).
 
